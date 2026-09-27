@@ -1,0 +1,9 @@
+{
+  "name": "passport-seva-accessibility-audit",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node --test",
+    "start": "node server/server.js"
+  }
+}
